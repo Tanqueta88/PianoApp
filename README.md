@@ -30,8 +30,8 @@ In this repository, a piano application is built using CSS and responsive design
    <p>Tecnologías Utilizadas:</p>
 <ul>
   <li>CSS: <a href="https://lenguajecss.com/css/">Enlace a la pagina oficial</a></li>
-  <li>Android Studio: <a href="https://developer.android.com/studio">Enlace a la pagina oficial</a></li>
-  <li>Kotlin: <a href="https://kotlinlang.org/">Enlace a la documentación oficial del lenguaje</a></li>
+  <li>HTML5: <a href="https://lenguajehtml.com/html/">Enlace a la pagina oficial</a></li>
+  <li>VS Code: <a href="https://code.visualstudio.com/">Enlace a la documentación oficial del lenguaje</a></li>
 </ul>
 
    </details>
