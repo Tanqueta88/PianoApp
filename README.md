@@ -1,7 +1,8 @@
 # Piano App
 ***
+![Image text](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F160000%2Fvelka%2Ftouches-de-piano.jpg&f=1&nofb=1&ipt=d3023ac27293ecdb3570d46eed7849f8d37259298000db3951d6254a1eea0d55&ipo=images)
 
-![Image text](https://s1.eestatic.com/2019/03/22/ciencia/nutricion/frutas-dietas-nutricion_385223543_118511715_1706x960.jpg)
+
 
 
 En este repositorio se encuentra el proyecto correspondiente al segundo parcial, el mismo consiste en una aplicacion que trae datos desde la pagina https://www.fruityvice.com/#2.
